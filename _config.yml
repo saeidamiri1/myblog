@@ -111,3 +111,4 @@ encoding: utf-8
 
 
 paginate_path: "/blog/page:num/"
+ BASE_PATH : https://saeidamiri1.github.io/myblog
