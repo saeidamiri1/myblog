@@ -38,13 +38,8 @@ a{
 a:focus{
 	outline:thin dotted
 	}
-a:visited {
-	color: #a0a;
-	}
-	a:hover {
-		color: black;
-	  }	
-a:active{
+	
+a:active,a:hover{
 	outline:0
 	}
 	
@@ -388,23 +383,23 @@ h4 small,h5 small,h6 small,h4 .small,h5 .small,h6 .small{
 	}
 	
 h1,.h1{
-	font-size:20px
+	font-size:36px
 	}
 	
 h2,.h2{
-	font-size:18px
+	font-size:30px
 	}
 	
 h3,.h3{
-	font-size:16px
+	font-size:24px
 	}
 	
 h4,.h4{
-	font-size:14px
+	font-size:18px
 	}
 	
 h5,.h5{
-	font-size:13px
+	font-size:14px
 	}
 	
 h6,.h6{
