@@ -19,22 +19,8 @@ author :
   github : saeidamiri1
 #  stackoverflow :
 
-<<<<<<< HEAD
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/saeidamiri1/saeidamiri1.github.io/master/public/image/1024px-Python.png
-=======
-production_url : https://saeidamiri1.github.io/myblog
-description: A place for Python Blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-theme: jekyll-theme-slate
-plugins:
-  - jekyll-feed
->>>>>>> 05dd2b016ba888fef1f35ca53f2436c7fd8d5a4c
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
