@@ -25,7 +25,7 @@ author :
   name : Saeid Amiri
   email : saeid.amiri1@gmail.com
   github : saeidamiri1
-avatar: https://raw.githubusercontent.com/saeidamiri1/saeidamiri1.github.io/master/public/image/1024px-Python.png 
+#avatar: https://raw.githubusercontent.com/saeidamiri1/saeidamiri1.github.io/master/public/image/1024px-Python.png 
 
 production_url : https://saeidamiri1.github.io/myblog
 description: A place for Python Blog
